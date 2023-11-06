@@ -16,6 +16,8 @@ section {
   background-color: white;
 }
 
+
+
 .hero {
   height: 100vh;
 
@@ -237,3 +239,44 @@ a {
     display: none;
   }
 }
+
+
+.section {
+  /* margin: 20px; */
+  padding: 20px;
+  background-color: #f5e7e2; 
+
+}
+
+
+.section_1
+{
+  background-color: rgb(255, 0, 81);
+}
+
+.section_2
+{
+  background-color: #fffb00;
+}
+
+.skills .skill {
+  margin: 10px 0;
+}
+
+.skills .progress {
+  background-color: #d0e8e6; 
+  border-radius: 5px;
+  height: 20px;
+}
+
+.skills .progress-bar {
+  background-color: #70a7a6; 
+  border-radius: 5px;
+  height: 20px;
+}
+
+.experience .job {
+  margin: 20px 0;
+}
+
+
